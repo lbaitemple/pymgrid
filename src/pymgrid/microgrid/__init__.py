@@ -1,3 +1,3 @@
 DEFAULT_HORIZON = 23
 
-from pymgrid.microgrid import Microgrid
+from pymgrid.microgrid2 import Microgrid
