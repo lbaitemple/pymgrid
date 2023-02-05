@@ -21,7 +21,8 @@ You should have received a copy of the GNU Lesser General Public License along w
 
 import numpy as np
 import pandas as pd
-from pymgrid import NonModularMicrogrid, Microgrid, PROJECT_PATH
+from pymgrid import NonModularMicrogrid, PROJECT_PATH
+import pymgrid.Microgrid
 from os import listdir
 from os.path import isfile, join
 import os
